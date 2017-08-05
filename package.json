@@ -1,0 +1,23 @@
+{
+  "name": "basicamazon",
+  "version": "1.0.0",
+  "description": "A basic Amazon-like application for customers using Node.js, Inquirer.js, and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarheeljessicajones/basicAmazon.git"
+  },
+  "author": "Jessica Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarheeljessicajones/basicAmazon/issues"
+  },
+  "homepage": "https://github.com/tarheeljessicajones/basicAmazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  }
+}
